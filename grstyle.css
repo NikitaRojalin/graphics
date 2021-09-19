@@ -1,0 +1,140 @@
+body{
+    background-color:#696969;
+}
+.obs{
+    color: red;
+    font-size:100px;
+    font-weight: bolder;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.stat{
+    color: white;
+    font-size:29px;
+    font-weight: lighter;
+    margin-top:0px;
+}
+.head{
+    text-align: center;
+}
+.fst-d,.four-d,.seventh-d{
+    display:flex;
+    margin-left:400px;
+    margin-right:200px;
+    color: white;
+}
+.f1,.d2{
+    background-color:orange;
+    width:300px;
+    height:300px;
+
+}
+.f2,.s1{
+    background-color:#00BFFF;
+    width:300px;
+    height:300px;
+
+}
+
+.scnd-d{
+    background-color:#DC143C;
+    width:600px;
+    height:250px;
+    margin-left:400px;
+    margin-top: 30px;
+
+}
+.thd-d{
+    background-color:#00BFFF;
+    width:600px;
+    height:300px;
+    margin-left:400px;
+    margin-top: 30px;
+}
+
+.d1,.s2{
+background-color:#DC143C;
+width:300px;
+height:300px;
+}
+.four-d{
+    margin-top: 30px;
+}
+.fifth-d,.sixth-d{
+    background-color:#00BFFF;
+    width:600px;
+    height:250px;
+    margin-left:400px;
+    margin-top: 30px;
+}
+.sixth-d{
+    background-color: orange;
+}
+.seventh-d{
+    margin-top: 30px;
+}
+.f1,.f2{
+    font-size:20px;
+    text-align: center;
+}
+.txt{
+    font-family: serif;
+    font-size:28px;
+    font-weight: bolder;
+}
+.e1{
+    margin-top: 0;
+    display: flex;
+    color:white;
+    font-size:20px;
+    padding: 10px;
+}
+.sm{
+    margin-top:45px;
+    font-size:17px;
+    margin-right:9px;
+    margin-left:20px;
+}
+.e2{
+    color:white;
+    font-size:20px;
+    padding:20px;
+}
+.thd-head{
+
+    color:white;
+    font-size:28px;
+    text-align: left;
+    margin-left:30px;
+margin-bottom: 0;
+padding-top: 20px;
+
+}
+.thd-para{
+
+    padding: 20px;
+    padding-top: 0;
+    color:white;
+    font-size: 20px;
+    display: flex;
+
+}
+.d1,.d2{
+    text-align: center;
+    font-size:18px;
+}
+
+.fifth-para,.sixth-para{
+    color:white;
+    font-size:23px;
+    padding:30px;
+}
+.s1,.s2{
+    color:white;
+    font-size:20px;
+    text-align: center;
+
+}
+.sixth-d,.fifth-d{
+    display:flex;
+}
